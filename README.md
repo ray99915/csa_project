@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: gray;
+  text-align: left;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/ray99915/csa_project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1><font color = "#0A0A0A"><b>Raymond WU</b></font></h1>
+<p>
+<b><font size = 5 color = "#F4A460">姓名：</font></b><ol>吳東曄</ol>
+</p>
+<p>
+<b><font size = 5 color = "#F4A460">生日：</font></b><ol>2001/08/20</ol>
+</p>
+<p>
+<b><font size = 5 color = "#F4A460">興趣：</font></b><br>
+<ol><li>打R6</li><br><li>聽音樂</li></ol>
+</p>
+<p><b><font size = 5 color = "#F4A460">專長：</font></b><ol><li>LOL 寇格魔75萬專精</li><br><li>洗澡很快</li></ol></p>
+<p><b><font size = 5 color = "#F4A460">學歷：</font></b><br>
+<ul>
+<li>文元國小</li><br>
+<li>建興國中</li><br>
+<li>台南一中</li><br>
+<li>清華大學資訊工程學系</li></ul></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ray99915/csa_project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>
+<font size = 5 color = "#F4A460"><b>聯絡方式</b>：</font><ul><li>EMAIL：ray9991@gmail.com</li><br><li>電話：0920801820</li><br><li>INSTAGRAM：
+<a href = "https://www.instagram.com/ya__beso/?hl=zh-tw">@ya__beso</a></p></li></ul>
+<img src="假笑機掰貓1" alt="Avatar" style="width:200px">
+<script language="JavaScript">
+function ShowTime(){
+　document.getElementById('showbox').innerHTML = new Date();
+　setTimeout('ShowTime()',1000);
+}
+</script>
+<body onload="ShowTime()">
+<div onclick="ChangeColor('white')" style="background-color: #DAA520; border:3px double; width:150px;height:70px;float:right;">
+<div id="showbox"></div>
+</body>
+</html>
