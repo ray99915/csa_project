@@ -27,8 +27,6 @@ body {
 <li>建興國中</li><br>
 <li>台南一中</li><br>
 <li>清華大學資訊工程學系</li></ul></p>
-
-<p>
 <font size = 5 color = "#F4A460"><b>聯絡方式</b>：</font><ul><li>EMAIL：ray9991@gmail.com</li><br><li>電話：0920801820</li><br><li>INSTAGRAM：
 <a href = "https://www.instagram.com/ya__beso/?hl=zh-tw">@ya__beso</a></p></li></ul>
 <img src="假笑機掰貓1" alt="Avatar" style="width:200px">
@@ -41,5 +39,3 @@ function ShowTime(){
 <body onload="ShowTime()">
 <div onclick="ChangeColor('white')" style="background-color: #DAA520; border:3px double; width:150px;height:70px;float:right;">
 <div id="showbox"></div>
-</body>
-</html>
