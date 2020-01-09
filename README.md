@@ -8,6 +8,11 @@ body {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
+a{
+  color :silver;
+  font-family:新細明體;
+  text-align: left
+  }
 </style>
 </head>
 <body>
