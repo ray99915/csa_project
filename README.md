@@ -34,7 +34,7 @@ a{
 <li>清華大學資訊工程學系</li></ul></p>
 <font size = "5" color = "#F4A460"><b>聯絡方式</b>：</font><br><ul><li>EMAIL：ray9991@gmail.com</li><br><li>電話：0920801820</li><br><li>INSTAGRAM：
 <a href = "https://www.instagram.com/ya__beso/?hl=zh-tw">@ya__beso</a></li></ul>
-<img src="禮貌機掰貓1" alt="Avatar" style="width:510px">
+<img src="禮貌假笑貓1.jpg" alt="Avatar" style="width:510px">
 <script language="JavaScript">
 function ShowTime(){
 　document.getElementById('showbox').innerHTML = new Date();
