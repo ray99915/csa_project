@@ -6,7 +6,7 @@
 body {
   background-color: gray;
   text-align: left;
-  color: white;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
 </style>
