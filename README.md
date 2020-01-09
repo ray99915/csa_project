@@ -14,7 +14,7 @@ body {
 <body>
 
 <h1><font color = "black"><b>Raymond WU</b></font></h1>
-<p><font size = 5 color = "black"><b>姓名：</b></font>吳東曄</p>
+<p><font color = "gray" size = 5><b>姓名：</b></font>吳東曄</p>
 <p>
 <b><font size = 5 color = "#F4A460">生日：</font></b><ol>2001/08/20</ol>
 </p>
