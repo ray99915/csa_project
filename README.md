@@ -9,7 +9,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 a{
-  color :silver;
+  color :black;
   font-family:新細明體;
   text-align: left
   }
@@ -18,21 +18,21 @@ a{
 <body>
   
   
-<h1><font color="black"><b>Raymond WU</b></font></h1>
+<h1><font color="teal"><b>Raymond WU</b></font></h1>
 <p><font color="gray" size=5><b>姓名：</b></font>吳東曄</p>
-<p><b><font size = 5 color = "#F4A460">生日：</font></b>2001/08/20</p>
+<p><b><font size = "5" color = "#F4A460">生日：</font></b>2001/08/20</p>
 <p>
-<b><font size = 5 color = "#F4A460">興趣：</font></b><br>
+<b><font size = "5" color = "#F4A460">興趣：</font></b><br>
 <ol><li>打R6</li><br><li>聽音樂</li></ol>
 </p>
-<p><b><font size = 5 color = "#F4A460">專長：</font></b><ol><li>LOL 寇格魔75萬專精</li><br><li>洗澡很快</li></ol></p>
-<p><b><font size = 5 color = "#F4A460">學歷：</font></b><br>
+<p><b><font size = "5" color = "#F4A460">專長：</font></b><ol><li>LOL 寇格魔75萬專精</li><br><li>洗澡很快</li></ol></p>
+<p><b><font size = "5" color = "#F4A460">學歷：</font></b><br>
 <ul>
 <li>文元國小</li><br>
 <li>建興國中</li><br>
 <li>台南一中</li><br>
 <li>清華大學資訊工程學系</li></ul></p>
-<font size = 5 color = "#F4A460"><b>聯絡方式</b>：</font><ul><li>EMAIL：ray9991@gmail.com</li><br><li>電話：0920801820</li><br><li>INSTAGRAM：
+<font size = "5" color = "#F4A460"><b>聯絡方式</b>：</font><ul><li>EMAIL：ray9991@gmail.com</li><br><li>電話：0920801820</li><br><li>INSTAGRAM：
 <a href = "https://www.instagram.com/ya__beso/?hl=zh-tw">@ya__beso</a></p></li></ul>
 <img src="假笑機掰貓1" alt="Avatar" style="width:200px">
 <script language="JavaScript">
