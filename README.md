@@ -13,7 +13,7 @@ body {
 </head>
 <body>
 
-<h1><font color = "#0A0A0A"><b>Raymond WU</b></font></h1>
+<h1><font color = "teal"><b>Raymond WU</b></font></h1>
 <p>
 <b><font size = 5 color = "#F4A460">姓名：</font></b><ol>吳東曄</ol>
 </p>
